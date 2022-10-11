@@ -1,10 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/funky-poseidon/" target="_blank"><img height=30 src="https://img.icons8.com/doodle/48/000000/linkedin.png"/></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/arnab_funky/" target="_blank"><img height=30 src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png"/></a>&nbsp;&nbsp;
-<a href="https://www.codechef.com/users/arnabray" target="_blank"><img height=30 src="https://api.iconify.design/simple-icons:codechef.svg"/></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/funky.poseidon/" target="_blank"><img height=30 src="https://img.icons8.com/doodle/48/000000/facebook-new.png"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/prabhu-kumar-saw-43b467135/" target="_blank"><img height=30 src="https://img.icons8.com/doodle/48/000000/linkedin.png"/></a>&nbsp;&nbsp;
+<a href="https://leetcode.com/prabhukumarsaw/" target="_blank"><img height=30 src="https://api.iconify.design/simple-icons:leetcode.svg"/></a>&nbsp;&nbsp;
 
 </p>
 
