@@ -18,7 +18,7 @@ Hi, I'm [Prabhu Kumar](https://www.linkedin.com/in/prabhu-kumar-saw-43b467135/),
 - 🌱 I’m currently learning Advanced Algorithms and System Desining :sunglasses:
 - 💬 Ask me about anything, I will always help :smiley:
 - 📫 How to reach me: [@Linkedin]([https://www.linkedin.com/in/prabhu-kumar-saw-43b467135/])
-- 👾 You can check **my portfolio** here: [@thesawraj](shorturl.at/sTWY6)
+- 👾 You can check **my portfolio** here: [@thesawraj](https://thesawraj.netlify.app/)
 
 **Languages and Frameworks:**  
 
