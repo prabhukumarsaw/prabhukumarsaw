@@ -8,11 +8,11 @@ GIF
 
 Talking about Personal Stuffs:
 
-🔭 I’m currently working on something amazing 😉
-🌱 I’m currently learning Advanced Algorithm and system designing 😎
-💬 Ask me about anything, I will always help 😃
-📫 How to reach me: @
-👾 You can check my portfolio here: @https://thesawraj.netlify.com/
+-🔭 I’m currently working on something amazing 😉
+-🌱 I’m currently learning Advanced Algorithm and system designing 😎
+-💬 Ask me about anything, I will always help 😃
+-📫 How to reach me: @shorturl.at/rGQW5
+-👾 You can check my portfolio here: @https://thesawraj.netlify.com/
 
 Hey, nice to see you.
 
