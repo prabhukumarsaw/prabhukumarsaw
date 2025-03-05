@@ -29,18 +29,14 @@ I'm **Prabhu Kumar**, a **Full-Stack Developer** & **DevOps Enthusiast** with ex
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/kafka/kafka.png"></code>
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thesawraj&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
 ## 📬 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prabhu-kumar-saw-43b467135/" target="_blank">LinkedIn</a> • 
   <a href="https://leetcode.com/prabhukumarsaw/" target="_blank">LeetCode</a> • 
-  <a href="https://thesawraj.vercel.app/" target="_blank">Portfolio</a>
+  <a href="https://prabhudev.vercel.app/" target="_blank">Portfolio</a>
 </p>
 
 ---
