@@ -1,37 +1,49 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+# Hey there! 👋 Welcome to my GitHub
 
 <p align="center">
-<a href="https://www.linkedin.com/in/prabhu-kumar-saw-43b467135/" target="_blank"><img height=30 src="https://img.icons8.com/doodle/48/000000/linkedin.png"/></a>&nbsp;&nbsp;
-<a href="https://leetcode.com/prabhukumarsaw/" target="_blank"><img height=30 src="https://api.iconify.design/simple-icons:leetcode.svg"/></a>&nbsp;&nbsp;
-
+  <a href="https://www.linkedin.com/in/prabhu-kumar-saw-43b467135/" target="_blank"><img height=30 src="https://img.icons8.com/doodle/48/000000/linkedin.png"/></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/prabhukumarsaw/" target="_blank"><img height=30 src="https://api.iconify.design/simple-icons:leetcode.svg"/></a>&nbsp;&nbsp;
+  <a href="https://thesawraj.vercel.app/" target="_blank"><img height=30 src="https://img.icons8.com/external-those-icons-lineal-those-icons/24/000000/external-website-web-those-icons-lineal-those-icons.png"/></a>
 </p>
 
-Hi, I'm [Prabhu Kumar](https://www.linkedin.com/in/prabhu-kumar-saw-43b467135/), a web and app developer 👨🏻‍💻 from Jharkhand, India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. Beside's Hacking stuff, I play computer games :video_game: .
+## 🚀 About Me
 
+I'm **Prabhu Kumar**, a **Full-Stack Developer** & **DevOps Enthusiast** with expertise in **JavaScript, Node.js, Next.js, FastAPI, PostgreSQL, Kubernetes, and Cloud Computing**. I love solving complex problems, optimizing systems, and building scalable digital products. Currently, I'm diving deeper into **Kafka, FastAPI, and RAG (Retrieval-Augmented Generation)** while staying up-to-date with the latest tech trends.
 
+## ⚡ Current Focus
+- 🔥 Building high-performance **web & mobile applications**
+- 🛠 Mastering **DevOps workflows (Docker, Kubernetes, CI/CD)**
+- 🤖 Exploring **AI in healthcare & RAG-based AI applications**
+- 🎯 Deep-diving into **System Design & Distributed Systems**
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500" height="auto" />
+## 🛠 Tech Stack & Tools
 
-**Talking about Personal Stuffs:**
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/kafka/kafka.png"></code>
 
-- 🔭 I’m currently working on something amazing :wink:
-- 🌱 I’m currently learning Advanced Algorithms and System Desining :sunglasses:
-- 💬 Ask me about anything, I will always help :smiley:
-- 📫 How to reach me: [@Linkedin]([https://www.linkedin.com/in/prabhu-kumar-saw-43b467135/])
-- 👾 You can check **my portfolio** here: [@thesawraj](https://thesawraj.netlify.app/)
+## 📊 GitHub Stats
 
-**Languages and Frameworks:**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thesawraj&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<hr>
-</br>
+## 📬 Connect with Me
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/prabhu-kumar-saw-43b467135/" target="_blank">LinkedIn</a> • 
+  <a href="https://leetcode.com/prabhukumarsaw/" target="_blank">LeetCode</a> • 
+  <a href="https://thesawraj.vercel.app/" target="_blank">Portfolio</a>
+</p>
 
-<div align="center">
+---
 
-### Show some ❤️ by starring some of the repositories!
-</div>
+<p align="center">⭐ Show some love by starring my repositories!</p>
+
